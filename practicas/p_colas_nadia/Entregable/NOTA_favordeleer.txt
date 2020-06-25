@@ -1,0 +1,6 @@
+Profesora, en mi primer intento quise crear un contador con el que al irse agregando elementos a la cola aumentara su valor en una unidad, y posteriormente utilizar este contador para imprimir, o sacar el último valor de la cola y funcionaba bien. El problema era cuando abría otra línea de comandos, el contador se reseteaba a cero y no permitía se sincronizaban bien los procesos. Entonces tuve que crear otra llave para el apuntador a los elementos que requería para que en ambas líneas de comando el proceso estuviera sincronizado (le mando ambos códigos). 
+¿no existe otra manera de sincronizar esto sin tener que crear otra llave? 
+Espero que mañana me pueda atender para molestarla con esa duda. 
+Que pase una buena noche. 
+
+Nadia. 
